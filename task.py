@@ -18,7 +18,7 @@ has_phone = True     # You have a phone with you.
 
 # Question: "Are you sitting near the sink?"
 
-near_sink = True    # You are not sitting near the sink.
+near_sink = False    # You are not sitting near the sink.
 
 # ------Group 2--------
 
